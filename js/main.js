@@ -2668,7 +2668,7 @@ $(document).ready(function () {
     //demo button  - START CODE
     /*==============================================================*/
 
-    var $buythemediv = '<div class="buy-theme alt-font sm-display-none"><a href="https://github.com/ivancristina/" target="_blank"><i class="ti-shopping-cart"></i><span>Buy Theme</span></a></div><div class="all-demo alt-font sm-display-none"><a href="mailto:ivancristina5@gmail.com?subject=Kallimorpha"><i class="ti-email"></i><span>Quick Question?</span></a></div>';
+    var $buythemediv = '<div class="buy-theme alt-font sm-display-none"><a href="https://github.com/ivancristina/" target="_blank"><i class="ti-shopping-cart"></i><span>Developer</span></a></div><div class="all-demo alt-font sm-display-none"><a href="mailto:ivancristina5@gmail.com?subject=Kallimorpha"><i class="ti-email"></i><span>Contact me</span></a></div>';
     $('body').append($buythemediv);
 
     /*==============================================================*/
